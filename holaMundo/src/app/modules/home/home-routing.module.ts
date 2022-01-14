@@ -4,7 +4,7 @@ import { SidebarComponent } from '@shared/components/sidebar/sidebar.component';
 
 const routes: Routes = [
   {
-    path:':', 
+    path:':'
     component: SidebarComponent
   }
 ];
