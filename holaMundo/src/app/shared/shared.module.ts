@@ -8,9 +8,9 @@ import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
+    SideBarComponent,
     MediaPlayerComponent,
     HeaderUserComponent,
-    SideBarComponent,
   ],
   imports: [
     CommonModule
