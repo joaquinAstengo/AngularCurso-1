@@ -16,6 +16,8 @@ import { CommonModule } from '@angular/common';
     CommonModule
   ],
   exports: [
+    MediaPlayerComponent,
+    HeaderUserComponent,
     SideBarComponent,
   ]
 })
