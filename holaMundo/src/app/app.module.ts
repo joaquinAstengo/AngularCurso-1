@@ -6,8 +6,7 @@ import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    FavoritesPageComponent,],  
+    AppComponent],  
   imports: [
     BrowserModule,
     AppRoutingModule

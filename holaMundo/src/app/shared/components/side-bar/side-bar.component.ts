@@ -17,7 +17,7 @@ ngOnInit(): void {
     this.mainMenu.defaultOptions = [
       {
         name: 'Home',
-        icon: 'uil-state',
+        icon: 'uil-estate',
         router: ['/']
       },
       {
